@@ -68,8 +68,8 @@
 <div align="center">
   
   
-  <img src="https://streak-stats.demolab.com?user=CHIMPMAN-CHIMP&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHIMPMAN-CHIMP&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="100" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=CHIMPMAN-CHIMP&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="400" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHIMPMAN-CHIMP&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 <div align="center">
