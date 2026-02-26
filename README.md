@@ -1,28 +1,25 @@
-<img align="left" height="184" src="https://i.imgur.com/aavT1zT.gif"  />
+<img align="left" height="160" src="https://i.imgur.com/aavT1zT.gif"  />
 
 ###
 
-<img align="right" height="180" src="https://i.imgur.com/aavT1zT.gif"  />
-
-###
-
-<div align="center">
-  <img height="100" src="https://i.pinimg.com/originals/0c/e9/4d/0ce94d30e107955b8d95a0a16d4da41a.gif"  />
-</div>
-
-###
-
-<h2 align="center">--Welcome--</h2>
-
-###
-
-<p align="center">it is said that "an infinite number of monkeys typing randomly will eventually reproduce the works of Shakespeare."<br>Well, this one doesn't really care for the classics...</p>
+<img align="right" height="160" src="https://i.imgur.com/aavT1zT.gif"  />
 
 ###
 
 <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <img height="180" src="https://i.pinimg.com/originals/0c/e9/4d/0ce94d30e107955b8d95a0a16d4da41a.gif"  />
 </div>
+
+###
+
+<h1 align="center">--Welcome--</h1>
+
+###
+
+<strong><p align="center">it is said that "an infinite number of monkeys typing randomly will eventually reproduce the works of Shakespeare."<br>Well, this one doesn't really care for the classics...</p></strong>
+
+###
+
 
 ###
 
