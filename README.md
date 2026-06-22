@@ -77,8 +77,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=nu3w49wad3udyf9ac9fa5isrc&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-###
 
-<img src="https://raw.githubusercontent.com/CHIMPMAN-CHIMP/CHIMPMAN-CHIMP/output/snake.svg" alt="Snake animation" />
-
-###
