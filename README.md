@@ -16,7 +16,7 @@
 
 ###
 
-<strong><p align="center">it is said that "an infinite number of monkeys typing randomly will eventually reproduce the works of Shakespeare."<br>Well, this one doesn't really care for the classics...</p></strong>
+<strong><p align="center">it is said that "an infinite number of monkeys typing randomly will eventually reproduce the works of Shakespeare."<br>Well, this chimp doesn't really care for the classics...</p></strong>
 
 ###
 
